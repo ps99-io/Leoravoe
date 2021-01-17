@@ -19,7 +19,8 @@
 - 💬 Ask me about Backend Development
 - ⚡ Fun fact: I love sketching portraits in charcoal
 - 📫 How to reach me: Checkout my Social Account given below 
-<br>
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preetam-sarkar-762233200/)](https://www.linkedin.com/in/preetam-sarkar-762233200/)
 [![MAIL Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarkarpreetam12@gmail.com)](mailto:sarkarpreetam12@gmail.com)
 
@@ -28,6 +29,7 @@
 ### Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoravoe&show_icons=true&locale=en&layout=compact&theme=radical" alt="leoravoe" /></p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=leoravoe&show_icons=true&locale=en&theme=radical" alt="leoravoe" /></p>
 
