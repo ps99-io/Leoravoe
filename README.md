@@ -2,7 +2,7 @@
 
 **I am a Backend Developver and CSE Student in Bengal Institute of Technology.**
 **I Like To Implement My Skills On NodeJS, ExpressJs, MongoDB**
-**and I am an artist love to sketch portraits in charcoal**
+**and I am an artist I love to sketch portraits in charcoal**
 
 <br>
 
