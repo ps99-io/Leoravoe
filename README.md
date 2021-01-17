@@ -19,6 +19,7 @@
 - 💬 Ask me about Backend Development
 - ⚡ Fun fact: I love sketching portraits in charcoal
 - 📫 How to reach me: Checkout my Social Account given below 
+<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preetam-sarkar-762233200/)](https://www.linkedin.com/in/preetam-sarkar-762233200/)
 [![MAIL Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarkarpreetam12@gmail.com)](mailto:sarkarpreetam12@gmail.com)
 
