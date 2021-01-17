@@ -1,4 +1,4 @@
-## Hi there 👋, I am Preetam Sarkar
+# Hi there 👋, I am Preetam Sarkar
 
 **I am a CSE Student Backend Developver study student in Bengal Institute of Technology.**
 **I Like To Implement My Skills On NodeJS, ExpressJs, MongoDB**
@@ -19,9 +19,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preetam-sarkar-762233200/)](https://www.linkedin.com/in/preetam-sarkar-762233200/)
 [![MAIL Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarkarpreetam12@gmail.com)](mailto:sarkarpreetam12@gmail.com)
 
-### Feel Free to connect me on!
+## Feel Free to connect me !!
 
-### Stats:
+## Stats:
 
 ![Preetam's Github Stats](https://github-readme-stats.vercel.app/api?username=leoravoe&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoravoe&theme=radical)](https://github.com/leoravoe/github-readme-stats)
 
