@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoravoe&show_icons=true&locale=en&layout=compact&theme=radical" alt="leoravoe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoravoe&show_icons=true&locale=en&theme=radical" alt="leoravoe" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=leoravoe&show_icons=true&locale=en&theme=radical" alt="leoravoe" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
