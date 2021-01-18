@@ -21,6 +21,8 @@
 
 ## Feel Free to connect me !!
 
+<img align="right" alt="GIF" width="260px" src="https://user-images.githubusercontent.com/60667917/100003225-bc9e7d80-2deb-11eb-8a9d-2bcca799793e.gif" />
+
 ## Stats:
 
 ![Preetam's Github Stats](https://github-readme-stats.vercel.app/api?username=leoravoe&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoravoe&theme=radical)](https://github.com/leoravoe/github-readme-stats)
