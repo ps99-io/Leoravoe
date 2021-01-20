@@ -21,9 +21,10 @@
 
 ## Feel Free to connect me !!
 
+## Stats:
+
 <img align="right" alt="GIF" width="260px" src="work.gif" />
 
-## Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoravoe&show_icons=true&locale=en&theme=radical" alt="leoravoe" /></p>
 
