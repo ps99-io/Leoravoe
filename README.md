@@ -25,7 +25,8 @@
 
 ## Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoravoe&show_icons=true&locale=en&layout=compact&theme=radical" alt="leoravoe" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoravoe&show_icons=true&locale=en" alt="leoravoe" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoravoe&theme=radical)](https://github.com/leoravoe/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
