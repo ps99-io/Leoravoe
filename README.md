@@ -26,7 +26,7 @@
 <img align="right" alt="GIF" width="320px" src="work.gif" />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en&theme=radical" alt="leoravoe" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoravoe&show_icons=true&locale=en&theme=radical" alt="leoravoe" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoravoe&show_icons=true&locale=en&layout=compact&theme=radical" alt="leoravoe" /></p>
 
