@@ -35,7 +35,7 @@
 
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
-  <img src="github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="github-user-contribution.svg" alt="snake"></center>
 </p>
 
 
