@@ -31,7 +31,7 @@
 
 <p align="center">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoravoe&show_icons=true&locale=en&layout=compact&theme=radical" alt="leoravoe" /> -->
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leoravoe&hide=html&layout=compact&langs_count=8&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leoravoe&hide=html&layout=compact&langs_count=8&theme=radical"/>
   <img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=leoravoe&theme=radical" />
 </p>
 <!-- <p><img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=leoravoe&theme=dracula" /></p> -->
