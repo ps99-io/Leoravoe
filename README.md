@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoravoe&label=Profile%20views&color=0e75b6&style=flat" alt="leoravoe" /> </p>
 
 - 🔭 I’m currently working on developing my skillsets in Backend Development
-- 🌱 I’m currently learning Nodejs, Expressjs, MongoDB, Docker, Reactjs
+- 🌱 I’m currently learning Nodejs, Expressjs, MongoDB, Docker, Reactjs, Solidity, Blockchain
 - 👯 I’m looking to collaborate on Backend Development of project in Nodejs, Expressjs and MongoDB
 - 💬 Ask me about Backend Development
 - ⚡ Fun fact: I love sketching portraits in charcoal
