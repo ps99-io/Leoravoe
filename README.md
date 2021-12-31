@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on Backend Development of project in Nodejs, Expressjs and MongoDB
 - 💬 Ask me about Backend Development
 - ⚡ Fun fact: I love sketching portraits in charcoal
-- 📫 How to reach me: Checkout my Social Account given below
+- 📫 How to reach me: Checkout my Social Account given 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preetam-sarkar-762233200/)](https://www.linkedin.com/in/preetam-sarkar-762233200/)
